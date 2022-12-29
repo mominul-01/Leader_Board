@@ -1,6 +1,41 @@
 /* fonts popins */
  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap'); 
 
+ /* header part */
+
+ /* .nav_bar{
+    background-color: #562EFF ;
+   
+    justify-content: center;
+ } */
+ 
+ nav{
+    background-color: #562EFF;
+   
+ }
+ .nav_item{
+    display: flex;  
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 94px;
+    
+ }
+ .main_logo{
+    margin-left: 15%;
+ }
+ .nav_item a{
+    color: #F3F1FF;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 15px;
+    
+ }
+ .nav_right{
+    margin-right: 15%;
+    
+ }
 
 /* common style or utlities */
 body{
