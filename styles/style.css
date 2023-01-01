@@ -1,14 +1,8 @@
 /* fonts popins */
  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap'); 
 
- /* header part */
 
- /* .nav_bar{
-    background-color: #562EFF ;
-   
-    justify-content: center;
- } */
- 
+ /* header part */ 
  nav{
     background-color: #562EFF;
    
@@ -218,3 +212,9 @@ hr{
     }
     
 }
+
+
+/* .container_add{
+    width: 870px;
+    margin: 0 auto;
+} */
